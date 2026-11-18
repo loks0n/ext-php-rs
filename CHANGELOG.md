@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## [0.17.0](https://github.com/extphprs/ext-php-rs/compare/ext-php-rs-v0.16.5...ext-php-rs-v0.17.0) - 2026-11-18
+
+### BREAKING CHANGES
+
+- *(class)* [**breaking**] Collect cycles through Rust fields behind a borrow-checked payload ([#824](https://github.com/extphprs/ext-php-rs/pull/824)) (by @ptondereau) [[#824](https://github.com/extphprs/ext-php-rs/issues/824)] 
+
+### Other
+- Switch default branch from master to main ([#852](https://github.com/extphprs/ext-php-rs/pull/852)) (by @ptondereau) [[#852](https://github.com/extphprs/ext-php-rs/issues/852)] 
 ## [0.16.5](https://github.com/extphprs/ext-php-rs/compare/ext-php-rs-v0.16.4...ext-php-rs-v0.16.5) - 2026-11-16
 
 ### Added
